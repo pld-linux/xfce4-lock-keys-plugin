@@ -2,7 +2,7 @@ Summary:	Show status of lock key leds plugin for the Xfce panel
 Summary(pl.UTF-8):	Wtyczka panelu Xfce pokazująca status diod klawiatury
 Name:		xfce4-lock-keys-plugin
 Version:	1.0.0
-Release:	3
+Release:	4
 License:	GPL
 Group:		X11/Applications
 Source0:	http://ftp.pld-linux.org/people/baggins/XFCE/%{name}-%{version}.tar.bz2
